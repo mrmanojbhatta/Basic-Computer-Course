@@ -128,4 +128,4 @@ Basic computer course
   <h3>Fifth Generation (Present and Beyond)</h3>
    <p><strong>Technology:</strong> Artificial Intelligence (AI) and Advanced Computing</p>
   <p><strong>Characteristics:</strong> This generation focuses on AI, machine learning, and quantum computing. Computers in this generation aim to simulate human intelligence and perform complex problem-solving tasks. They are characterized by the integration of advanced technologies and increased connectivity. Examples include modern AI systems and quantum computers.</p><br>
-  <h1>Manoj Bhatta</h1>
+  <h1>OSINT Expert</h1>
